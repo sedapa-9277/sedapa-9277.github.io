@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sedapa9277.bestlineup",
+        "sha256_cert_fingerprints": ["8D:21:68:40:DA:10:65:3D:81:A0:B5:76:D4:F0:7B:36:7A:EE:95:E8:94:50:12:1D:9D:08:AC:F7:ED:B3:F2:C2"]
+      }
+    }]
